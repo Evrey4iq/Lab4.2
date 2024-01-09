@@ -12,6 +12,6 @@ public class DecoderTest {
 
     @Test
     public void testDecodeConsonants() {
-        assertEquals("testing", Decoder.decode("t2st3ng"));
+        assertEquals("testing", Decoder.decode("uftujoh"));
     }
 }
